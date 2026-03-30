@@ -8,7 +8,6 @@
 
 I'm a data enthusiast with hands-on experience in data analysis, machine learning, and building end-to-end AI applications. I specialize in combining traditional ML with modern GenAI approaches to solve real-world problems.
 
-- 🔭 Currently a **Data Scientist Intern at Luminar TechnoHub**
 - 🧠 Building intelligent systems with Python, OpenCV, and LLMs
 - 📊 Crafting insightful dashboards with **Power BI**
 - 🛠️ Improving performance and accuracy of ML models with clean, annotated datasets
@@ -17,8 +16,15 @@ I'm a data enthusiast with hands-on experience in data analysis, machine learnin
 
 ## 💼 Experience
 
+**Data Analyst — Ernst & Young (EY)**  
+*Aug 2025 - Feb 2026*  
+- Worked on data-driven solutions to support business decision-making  
+- Collaborated with cross-functional teams to analyze and interpret data  
+- Built/assisted in developing dashboards, reports, or automation workflows.  
+- Applied SQL/Python/Alteryx/analytics tools to solve real-world business problems
+- 
 **🔹 Data Scientist Intern — Luminar TechnoHub**  
-*Dec 2024 – Present | Kochi, Kerala*  
+*Dec 2024 – Aug 2025 | Kochi, Kerala*  
 - Cleaned and analyzed 500K+ data points to uncover insights  
 - Built Power BI dashboards for business stakeholders
 
