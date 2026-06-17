@@ -1,91 +1,128 @@
-# 👋 Hi, I'm Roshan V R
+# Hi, I'm Roshan V R 👋
 
-🎯 Aspiring **Data Scientist** | 💡 Passionate about **AI, ML, and Computer Vision** | 🌐 Building real-world data-driven solutions
+**Data Analyst | SQL • Python • Power BI • Alteryx | Ex-EY | Open to Full-Time Opportunities**
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a data enthusiast with hands-on experience in data analysis, machine learning, and building end-to-end AI applications. I specialize in combining traditional ML with modern GenAI approaches to solve real-world problems.
+Data Analyst with hands-on experience at **Ernst & Young (EY)** building ETL pipelines, Power BI dashboards, and financial reporting workflows. I work across the full analytics pipeline — from raw data ingestion to insight delivery — with a focus on making analysis reproducible, fast, and business-relevant.
 
-- 🧠 Building intelligent systems with Python, OpenCV, and LLMs
-- 📊 Crafting insightful dashboards with **Power BI**
-- 🛠️ Improving performance and accuracy of ML models with clean, annotated datasets
+My engineering background (B.Tech, Mechanical Engineering) gives me a systems-thinking lens I apply directly to data problems: optimising workflows, spotting inefficiencies, and building solutions that scale.
+
+Currently deepening my advanced SQL and Python skills and actively building projects that reflect where I am right now.
+
+- 📊 **Business Intelligence** — Power BI, DAX, KPI dashboards
+- 🔄 **ETL & Automation** — Alteryx, Python, Excel Macros
+- 🗄️ **Data Analysis** — SQL (CTEs, window functions, aggregations), Pandas, EDA
+- 🤖 **Machine Learning** — Classification, Regression, NLP pipelines
 
 ---
 
 ## 💼 Experience
 
-**Data Analyst — Ernst & Young (EY)**  
-*Aug 2025 - Feb 2026*  
-- Worked on data-driven solutions to support business decision-making  
-- Collaborated with cross-functional teams to analyze and interpret data  
-- Built/assisted in developing dashboards, reports, or automation workflows.  
-- Applied SQL/Python/Alteryx/analytics tools to solve real-world business problems
-- 
-**🔹 Data Scientist Intern — Luminar TechnoHub**  
-*Dec 2024 – Aug 2025 | Kochi, Kerala*  
-- Cleaned and analyzed 500K+ data points to uncover insights  
-- Built Power BI dashboards for business stakeholders
+**Data Analyst (Contract) — Ernst & Young (EY)**
+*Aug 2025 – Feb 2026 | Kochi, Kerala*
 
-**🔹 Data Annotation Trainee — SafetyWhat**  
-*2025 | Kochi, Kerala*  
-- Annotated images using CVAT for ML model training  
-- Ensured precision under strict project guidelines
+- Designed and automated ETL workflows using **Alteryx**, reducing data processing time by **20%**
+- Built **Power BI dashboards** tracking revenue and cost KPIs for stakeholder decision-making
+- Automated Excel reporting with VLOOKUP and Macros, saving **10 hours of manual work per week**
+- Transformed raw financial data into structured formats ready for analytical modelling and reporting
+- Collaborated with cross-functional teams to deliver analytics solutions aligned with business goals
+
+---
+
+**Data Scientist Intern — Luminar TechnoHub**
+*Dec 2024 - Aug 2025 | Kochi, Kerala*
+
+- Built and evaluated ML models using Python, Pandas, NumPy, and Scikit-learn
+- Implemented classification algorithms: Random Forest, KNN, and XGBoost
+- Performed EDA and feature engineering on real-world datasets
+- Applied NLP pipelines using rule-based and deep learning approaches
 
 ---
 
 ## 📌 Projects
 
-- **🧠 AI-Powered Educational Assessment System**  
-  Real-time monitoring using video and speech input with Groq's LLM — reduced manual assessment effort by 25%
+**🔍 SQL Data Cleaning & Analysis** *(In Progress)*
+End-to-end SQL analysis using advanced techniques — CTEs, window functions, joins, deduplication, null handling. Business questions framed and answered from raw data.
+`SQL` `Data Cleaning` `EDA`
 
-- **😊 Real-Time Emotion Detection**  
-  CNN model with 90% accuracy + Flask app for live predictions using OpenCV
+---
 
-- **🔤 Malayalam to English Translator**  
-  Ensemble NLP model that boosted translation accuracy by 8%
+**🚧 Road Accident Analysis Dashboard**
+Power BI dashboard analysing 2+ years of road accident data. DAX-powered KPIs and visualisations surfacing key risk factors and safety trends.
+`Power BI` `DAX` `Data Visualisation`
 
-- **🚧 Road Accident Analysis Dashboard**  
-  Power BI dashboard analyzing 2+ years of data; DAX-powered insights for road safety
+---
 
-- **🔬 Microscopic Image Processing API**  
-  Built with Flask + CV for image stitching, ROI, 10X/20X zoom, and autofocus simulation
+**🧠 AI-Powered Educational Assessment System**
+Automated assessment tool integrating computer vision and speech recognition with **Groq LLM** for dynamic question generation. Reduced manual assessment workload by **25%**.
+`Python` `Groq LLM` `OpenCV` `Speech Recognition` `GenAI`
+
+---
+
+**😊 Real-Time Emotion Detection**
+CNN-based model achieving **90% accuracy** with a Flask application for live predictions via webcam using OpenCV.
+`Python` `CNN` `Flask` `OpenCV` `Deep Learning`
+
+---
+
+**🔤 Malayalam to English Translator**
+Ensemble NLP model that improved translation accuracy by **8%** over baseline.
+`Python` `NLP` `HuggingFace` `Ensemble Modelling`
+
+---
+
+**🔬 Microscopic Image Processing API**
+Flask + OpenCV API for image stitching, ROI extraction, and zoom simulation (10X/20X) for microscopy workflows.
+`Python` `Flask` `OpenCV` `Image Processing`
+
+---
+
+**🩺 Patient Survival Prediction**
+ML classification pipeline (Random Forest, KNN, XGBoost) achieving **80%+ accuracy**. Includes EDA, feature engineering, and model evaluation.
+`Python` `Scikit-learn` `EDA` `Feature Engineering`
 
 ---
 
 ## 🛠 Skills
 
-- **Languages & Tools:** Python, SQL, Power BI, MySQL, Excel  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, OpenCV, HuggingFace  
-- **Concepts:** Data Analysis, NLP, Deep Learning, LLM, GenAI, Supervised Learning  
-- **Soft Skills:** Problem-Solving, Adaptability, Attention to Detail, Critical Thinking
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | Python, SQL |
+| **BI & Visualisation** | Power BI, DAX, Matplotlib, Seaborn |
+| **ETL & Automation** | Alteryx, Excel (VLOOKUP, Macros) |
+| **Data Analysis** | Pandas, NumPy, EDA, Statistical Analysis |
+| **Machine Learning** | Scikit-learn, Random Forest, XGBoost, KNN |
+| **NLP & GenAI** | HuggingFace, Groq, NLP Pipelines |
+| **Computer Vision** | OpenCV, CNN |
+| **Databases** | MySQL |
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Mechanical Engineering**  
-Christ College of Engineering, Irinjalakuda (2018–2022)  
+**B.Tech in Mechanical Engineering**
+Christ College of Engineering, Irinjalakuda | 2018–2022
 CGPA: 7.9
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Data Science – Luminar Technolab  
-- 🧾 SQL and Relational Databases 101  
-- 🐍 Python 101 for Data Science
+- Alteryx Designer Core Micro-Credential — Alteryx
+- SQL and Relational Databases 101 — Cognitive Class
+- Data Science Certification — Luminar Technolab
+- Python 101 for Data Science
 
 ---
 
 ## 📫 Contact
 
-- 📧 roshanrameshan53@gmail.com  
-- 📞 9995393768  
-- 🔗 [LinkedIn](https://linkedin.com/in/roshanramesan)  
-- 🐙 [GitHub](https://github.com/Roshan-V-R)
+- 📧 roshanrameshan53@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/roshanramesan)
 
 ---
 
-⭐ *Feel free to explore my repositories and connect! I'm always open to collaborations and learning opportunities.*
+*Open to full-time Data Analyst roles. Let's connect.*
